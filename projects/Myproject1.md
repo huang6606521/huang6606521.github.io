@@ -2,7 +2,7 @@
 layout: project
 type: demonstration
 title: demonstrator
-date: 2016
+date: 2016-08-30
 permalink: projects/Myproject11
 lables:
   - DFS
