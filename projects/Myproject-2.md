@@ -1,8 +1,9 @@
-``` permalink: projects/DFS ``
+
 ---
 layout: project
 type: project
 title: Game- League of Legends
+permalink: projects/DFS 
 date: 2016
 summary: It is a non-code project but giving me a sense of how to be a software engineer. 
 ---
