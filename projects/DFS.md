@@ -1,3 +1,4 @@
+``` permalink: projects/DFS ``
 ---
 layout: project
 type: demonstration
