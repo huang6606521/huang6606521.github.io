@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: smartquestions
+date: 2016-09-08
+labels:
+  - Software Engineering
+  - asking questions
+---
+
 Sep. 8, 2016
 ##What is smart questions?
 Most people ask what is smart questions? What questions are smart or what questions are not smart?  Usually, people ask questions that is hard to understand by readers so it causes readers have no idea to respond and people also will not get the answers which they expect.  Therefore, a smart question should declear what you want to know at the first sentence clearly and use "object-deviation",which starts with object that what is problem with and deviation to explain how, describs what you want to ask(Eric Raymond).  Moreover, more details should be added if there is more specific problems so readers can quickly define problems.  However, not smart questions always confuse readers with purposes of questions. 
