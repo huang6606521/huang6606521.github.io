@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Reflect on UI Framework
-date: 2016-10-6
+date: 2016-10-06
 labels:
   - Semantic UI
 ---
