@@ -3,7 +3,6 @@ layout: project
 type: demonstration
 title: demonstrator
 date: 2016-08-30
-permalink: projects/Myproject1
 lables:
   - DFS
 summary: My experience at DFS working as demonstator who introduces products to customers.
