@@ -68,9 +68,14 @@
       "studyType": "B.S.",
       "startDate": "2015-09-01",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "3.0",
+      "courses": [ "ICS 311", "ICS 314", "ICS 211", "ICS 214"
       ]
+    }
+  ]
+  "job experience": [
+    {
+      "job" : "implement website for ICS 314 final project"
     }
   ]
  
