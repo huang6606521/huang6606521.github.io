@@ -77,10 +77,39 @@
       ]
     }
   ],
-  "experience": [
+  "work": [
     {
-      "website" : "implement website for ICS 314 final project"
-    }
+      "company": "Caniforlia Export",
+      "position": "Sales Assistant",
+      "startDate": "2013-10-01",
+      "endDate": "Present",
+      "summary": "Assist customers",
+      "highlights": [
+        "Products Introduce",
+        "Translating for customers",
+        "Help with Beauty Assistants",
+      ]
+    },
   ],
+  "volunteer": [
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ]
  
 }
