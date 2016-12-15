@@ -56,7 +56,11 @@
         "C++",
         "Java",
         "Javascript",
-       
+        "Semantic UI",
+        "Meteor",
+        "CSS",
+        "Underscore",
+        
       ]
     },
 
@@ -77,6 +81,6 @@
     {
       "website" : "implement website for ICS 314 final project"
     }
-  ]
+  ],
  
 }
