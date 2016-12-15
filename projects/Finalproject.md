@@ -1,7 +1,7 @@
 ---
 layout: project
 type: final project
-image: images/GGJ-logo-sm.png
+image: CollaborativeStudy.github.io/screenshots/CSLogo.png
 title: Collabroative Study Project
 permalink: projects/CS
 date: 2016
@@ -12,4 +12,9 @@ labels:
 summary: It is a website that provides a platform for students study together and make friends 
 ---
 
-
+## Introduction
+Collaborative Study (CS) is a scheduling app designed for UH ICS students to plan study sessions together. CS aims for ICS majors to form connections and better one another as students.
+Users of this app will be able to:
+* Maintain a public profile page
+* Find, rate, and form groups with other students
+* Join and create study sessions through a public calender
