@@ -1,10 +1,11 @@
 ---
 layout: project
-type: final-project
+type: project
+draft: false
 image: images/CSLogo.png
 title: CS
-permalink: projects/collaborative-study
-date: 2016
+permalink: projects/CS
+date: 2016-12-15
 labels:
   - Website Development
   - Project Collaboration
