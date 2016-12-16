@@ -1,6 +1,6 @@
 ---
 layout: project
-type: final project
+type: final-project
 image: images/CSLogo.png
 title: Collabroative Study Project
 permalink: projects/CS
