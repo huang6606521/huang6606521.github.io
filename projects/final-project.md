@@ -3,7 +3,7 @@ layout: project
 type: final-project
 image: images/CSLogo.png
 title: CS
-permalink: projects/CS
+permalink: projects/collaborative-study
 date: 2016
 labels:
   - Website Development
