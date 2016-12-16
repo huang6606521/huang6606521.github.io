@@ -1,7 +1,7 @@
 ---
 layout: project
 type: final project
-image: CollaborativeStudy.github.io/screenshots/CSLogo.png
+image: images/CSLogo.png
 title: Collabroative Study Project
 permalink: projects/CS
 date: 2016
