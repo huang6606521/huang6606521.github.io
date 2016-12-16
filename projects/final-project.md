@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-draft: false
 image: images/CSLogo.png
 title: CS
 permalink: projects/CS
