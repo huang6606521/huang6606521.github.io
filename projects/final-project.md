@@ -2,7 +2,7 @@
 layout: project
 type: final-project
 image: images/CSLogo.png
-title: Collabroative Study Project
+title: CS
 permalink: projects/CS
 date: 2016
 labels:
