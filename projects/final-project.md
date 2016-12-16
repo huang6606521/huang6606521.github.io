@@ -36,9 +36,8 @@ Reivew more about this application : [Collaborative Study](https://collaborative
 
 ### Contribution
 For this project,first of all, I created landing page for public users and home page for login users, which all of us change on the home page to make it looks better and organized.  Then, study session page took me long time for the search part javascript.  In order to make it work, I tested pretty much times and asked my team help.  Another page which is studs/pros page is not used because it needs every user information and prints out who is studying certain classes or professional of classes.  Since it requires users imformation, we decided to remove it.  There is one more page that I made is "not-found" page that shows users the page is not found and also a click which jumps back to home page.
-
-  <img class="ui fluid image" src="../images/studs.png"></img>
-  <img class="ui fluid image" src="../images/notfound.png"></img>
+ <img class="ui fluid image" src="../images/studs.png">
+ <img class="ui fluid image" src="../images/notfound.png">
 
 
 ### Reflection
