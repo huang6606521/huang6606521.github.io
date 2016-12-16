@@ -9,7 +9,7 @@ labels:
   - Website Development
   - Project Collaboration
   - UHM Studying Group
-summary: It is a website that provides a platform for students study together and make friends 
+summary: It is a website that provides a platform for students study together and make friends.
 ---
 
 ### Introduction
