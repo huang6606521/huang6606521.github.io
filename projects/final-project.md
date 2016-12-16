@@ -14,7 +14,7 @@ summary: It is a website that provides a platform for students study together an
 
 ### Introduction
 
-Collaborative Study (CS) is a scheduling app designed for UH ICS students to plan study sessions together. CS aims for ICS majors to form connections and better one another as students. The landing page briefly states what this app does and where students meet.  The app is developed by [Chad Morita](https://github.com/chadmorita), [Mariah Gaoiran](https://github.com/mariahgaoiran),[Mary Santabarbara](https://github.com/marysantabarbara) and myself.
+Collaborative Study (CS) is a scheduling app designed for UH ICS students to plan study sessions together. CS aims for ICS majors to form connections and better one another as students. The landing page briefly states what this app does and where students meet.  The app is developed by [Chad Morita](https://chadmorita.github.io), [Mariah Gaoiran](https://mariahgaoiran.github.io),[Mary Santabarbara](https://marysantabarbara.github.io) and myself.
 
 ####public landing page
 <img class="ui rounded image" src="../images/landing.png">
