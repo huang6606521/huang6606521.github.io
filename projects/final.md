@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/CSLogo.png
+image: images/landing.png
 title: CS
 permalink: projects/CS
 date: 2016-12-15
